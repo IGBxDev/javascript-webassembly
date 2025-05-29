@@ -42,7 +42,7 @@ int sum(int a, int b) {
 Comando para compilar:
 
 ```bash
-emcc sum.c -Os -s STANDALONE_WASM -s EXPORTED_FUNCTIONS="['_sum']" -o sum.wasm
+emcc sum.c -Os -o sum.html
 }
 ```
 
