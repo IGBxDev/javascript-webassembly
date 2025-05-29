@@ -64,7 +64,8 @@ O navegador irá carregar o arquivo .wasm e executar a função sum.
 javascript-webassembly/
 ├── sum.c             # Código C com função a ser compilada
 ├── sum.wasm          # Arquivo gerado via emcc
-├── index.html        # HTML com JS que consome o WASM
+├── sum.js            # Arquivo gerado via emcc
+├── sum.html          # HTML com JS que consome o WASM
 └── README.md
 ```
 
