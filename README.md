@@ -43,7 +43,6 @@ Comando para compilar:
 
 ```bash
 emcc sum.c -Os -o sum.html
-}
 ```
 
 ## 🌐 Executando no navegador
